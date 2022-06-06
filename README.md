@@ -1,4 +1,4 @@
-# CH-11
+# Crypto_Portfolio_Proposal
 This project is aim to propose a novel approach to assembling investment portfolios that are based on cryptocurrencies. It clusters cryptocurrencies by their performance in different time periods.
 
 
